@@ -1,0 +1,142 @@
+{
+  "personalInfos": {
+    "name": "Adam Khairi",
+    "phone": "+212 641 145 142",
+    "email": "khairiadam1@gmail.com",
+    "address": "123 New York D Block 1100, 2011 USA",
+    "image": "/assets/images/blog-author.jpg"
+  },
+  "socialLinks": [
+    {
+      "name": "Facebook",
+      "url": "https://www.facebook.com/adamKhairi",
+      "class": "bxl-facebook-square"
+    },
+    {
+      "name": "Twitter",
+      "url": "https://www.twitter.com/adamKhairi",
+      "class": "bxl-twitter"
+    },
+    {
+      "name": "Github",
+      "url": "https://www.github.com/adamKhairi",
+      "class": "bxl-github"
+    },
+    {
+      "name": "Linkedin",
+      "url": "https://www.linkedin.com/adamKhairi",
+      "class": "bxl-linkedin"
+    },
+    {
+      "name": "Instagram",
+      "url": "https://www.instagram.com/adamKhairi",
+      "class": "bxl-instagram"
+    },
+    {
+      "name": "Dribbble",
+      "url": "https://www.dribbble.com/adamKhairi",
+      "class": "bxl-dribbble"
+    }
+  ],
+  "about": {
+    "short": "I'm Christy Smith, a Web Designer & Photographer",
+    "long": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+  },
+  "skillsPercente": [
+    {
+      "name": "HTML & CSS",
+      "percentage": 90
+    },
+    {
+      "name": "Angular",
+      "percentage": 70
+    },
+    {
+      "name": "JavaScript & TypeScript",
+      "percentage": 70
+    },
+    {
+      "name": "PHP",
+      "percentage": 50
+    },
+    {
+      "name": "Laravel",
+      "percentage": 50
+    }
+  ],
+  "services": [
+    {
+      "whiteIcon": "/assets/images/icon-development-white.svg",
+      "blackIcon": "/assets/images/icon-development-black.svg",
+      "alt": "development icon",
+      "title": "Web Development",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+      "whiteIcon": "/assets/images/icon-content-white.svg",
+      "blackIcon": "/assets/images/icon-content-black.svg",
+      "alt": "content marketing icon",
+      "title": "Technical Writing",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+      "whiteIcon": "/assets/images/icon-mobile-white.svg",
+      "blackIcon": "/assets/images/icon-mobile-black.svg",
+      "alt": "Mobile Application icon",
+      "title": "Mobile Development",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+      "whiteIcon": "/assets/images/icon-email-white.svg",
+      "blackIcon": "/assets/images/icon-email-black.svg",
+      "alt": "email icon",
+      "title": "Email Development",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+      "whiteIcon": "/assets/images/icon-graphics-white.svg",
+      "blackIcon": "/assets/images/icon-graphics-black.svg",
+      "alt": "graphics icon",
+      "title": "Web Design",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+      "whiteIcon": "/assets/images/icon-design-white.svg",
+      "blackIcon": "/assets/images/icon-design-black.svg",
+      "alt": "marketing icon",
+      "title": "Graphic Design",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    }
+  ],
+  "projects": [
+    {
+      "img": "/assets/images/portfolio-apple.jpeg",
+      "alt": "project 1",
+      "title": "Project 1",
+      "url": "#",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+      "img": "/assets/images/portfolio-stripe.jpeg",
+      "alt": "project 2",
+      "title": "Project 2",
+      "url": "#",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+      "img": "/assets/images/portfolio-fedex.jpeg",
+      "alt": "project 3",
+      "title": "Project 3",
+      "url": "#",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    },
+    {
+      "img": "/assets/images/portfolio-microsoft.jpeg",
+      "alt": "project 3",
+      "title": "Project 3",
+      "url": "#",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+    }
+  ]
+
+}
