@@ -2,22 +2,18 @@ import { Routes } from '@angular/router';
 
 export const routes: Routes = [
   {
-    path: 'home',
-    loadComponent: () => import('../home/home.component').then(m => m.HomeComponent),
-    title: 'Adam Khairi - Web Developer'
-  },
-  {
-    path: '404',
-    loadComponent: () => import('../shared/components/not-found/not-found.component').then(m => m.NotFoundComponent)
-  },
-  {
     path: '',
-    redirectTo: 'home',
     pathMatch: 'full',
-
+    redirectTo: 'home',
+  },
+  {
+    path: 'home',
+    loadComponent: () => import('../home/home.component').then(c => c.HomeComponent),
+    data: { title: 'Adam Khairi - Web Developer' },
   },
   {
     path: '**',
-    redirectTo: '/404'
-  }
+    loadComponent: () => import('../shared/components/not-found/not-found.component').then(c => c.NotFoundComponent),
+    data: { title: '404 - Page Not Found' },
+  },
 ];
