@@ -8,16 +8,6 @@
   },
   "socialLinks": [
     {
-      "name": "Facebook",
-      "url": "https://www.facebook.com/adamKhairi",
-      "class": "bxl-facebook-square"
-    },
-    {
-      "name": "Twitter",
-      "url": "https://www.twitter.com/adamKhairi",
-      "class": "bxl-twitter"
-    },
-    {
       "name": "Github",
       "url": "https://www.github.com/adamKhairi",
       "class": "bxl-github"
@@ -26,21 +16,11 @@
       "name": "Linkedin",
       "url": "https://www.linkedin.com/adamKhairi",
       "class": "bxl-linkedin"
-    },
-    {
-      "name": "Instagram",
-      "url": "https://www.instagram.com/adamKhairi",
-      "class": "bxl-instagram"
-    },
-    {
-      "name": "Dribbble",
-      "url": "https://www.dribbble.com/adamKhairi",
-      "class": "bxl-dribbble"
     }
   ],
   "about": {
-    "short": "I'm Christy Smith, a Web Designer & Photographer",
-    "long": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum."
+    "short": "I'm Adam Khairi, a Web Developer & Web Designer.",
+    "long": "Motivated and skilled Web Developer with over 3 years of experience in front-end and back-end development. Proficient in Angular, .NET, and other web technologies. Strong problem-solving abilities and a keen eye for detail. Adept at working in fast-paced environments and committed to delivering high-quality software solutions."
   },
   "skillsPercente": [
     {
@@ -70,42 +50,42 @@
       "blackIcon": "/assets/images/icon-development-black.svg",
       "alt": "development icon",
       "title": "Web Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+      "description": "Experienced in building robust and scalable web applications using Angular to create dynamic and interactive user interfaces, and backend development with PHP and Laravel to manage data and implement business logic."
     },
     {
       "whiteIcon": "/assets/images/icon-content-white.svg",
       "blackIcon": "/assets/images/icon-content-black.svg",
       "alt": "content marketing icon",
       "title": "Technical Writing",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+      "description": "Proficient in creating technical documents and user guides that effectively communicate complex information to a wide audience."
     },
     {
       "whiteIcon": "/assets/images/icon-mobile-white.svg",
       "blackIcon": "/assets/images/icon-mobile-black.svg",
       "alt": "Mobile Application icon",
       "title": "Mobile Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+      "description": "Specializing in creating mobile applications for a seamless user experience on smartphones and tablets."
     },
     {
       "whiteIcon": "/assets/images/icon-email-white.svg",
       "blackIcon": "/assets/images/icon-email-black.svg",
       "alt": "email icon",
       "title": "Email Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+      "description": "Crafting email templates and designing email campaigns for effective communication and marketing purposes."
     },
     {
       "whiteIcon": "/assets/images/icon-graphics-white.svg",
       "blackIcon": "/assets/images/icon-graphics-black.svg",
       "alt": "graphics icon",
       "title": "Web Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+      "description": "Creating visually appealing and user-friendly interfaces for websites to enhance user engagement."
     },
     {
       "whiteIcon": "/assets/images/icon-design-white.svg",
       "blackIcon": "/assets/images/icon-design-black.svg",
       "alt": "marketing icon",
       "title": "Graphic Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+      "description": "Designing unique and creative graphics for branding, marketing materials, and digital content."
     }
   ],
   "projects": [
@@ -138,5 +118,4 @@
       "description": "Lorem ipsum dolor sit amet, consectetur adipisicing elit."
     }
   ]
-
 }
