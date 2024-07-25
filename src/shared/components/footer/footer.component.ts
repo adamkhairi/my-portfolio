@@ -1,4 +1,6 @@
 import { Component } from '@angular/core';
+import personalData from "../../personalData.json";
+import dataInfos from "../../personalData.json";
 
 @Component({
   selector: 'app-footer',
@@ -8,5 +10,5 @@ import { Component } from '@angular/core';
   styleUrl: './footer.component.css'
 })
 export class FooterComponent {
-
+  dataInfos = personalData;
 }
